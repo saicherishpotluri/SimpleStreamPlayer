@@ -15,14 +15,22 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them:
-
-```bash
+```
 npm install -g @angular/cli
-//Clone the repo
-git clone https://github.com/yourusername/simple-stream-player.git
-//Navigate into the project directory
-cd simple-stream-player
-//Install dependencies
-npm install
-//Serve the application
-ng serve
+```
+1. Clone the repo
+   ```
+   git clone https://github.com/yourusername/simple-stream-player.git
+   ```
+2. Navigate into the project directory
+   ```
+   cd simple-stream-player
+   ```
+3. Install dependencies
+   ```
+   npm install
+   ```
+4. Serve the application
+   ```
+   ng serve
+   ```
