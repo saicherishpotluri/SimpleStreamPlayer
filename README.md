@@ -15,9 +15,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them:
-```
-npm install -g @angular/cli
-```
+   ```
+   npm install -g @angular/cli
+   ```
 1. Clone the repo
    ```
    git clone https://github.com/yourusername/simple-stream-player.git
