@@ -1,0 +1,21 @@
+/* Navigation Bar Styling */
+.navbar {
+    margin-bottom: 10px;
+    background-color: #737476;  /* Dark background for the navbar */
+    color: white;
+    padding: 10px 20px; /* Padding for some spacing around the content */
+    font-family: Arial, sans-serif; /* Font styling */
+  }
+  
+  .nav-container {
+    display: flex;  /* Flexbox for alignment */
+    justify-content: space-between; /* Space out the items */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .navbar-brand {
+    text-decoration: none;  /* Remove underline from link */
+    color: white;  /* White text color */
+    font-size: 20px;  /* Larger text size for brand name */
+  }
+  
